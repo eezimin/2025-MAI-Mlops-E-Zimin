@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/ef95abaa12004729932c381898387dea/artifacts
+end_time: 1745957544467
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: ef95abaa12004729932c381898387dea
+run_name: sedate-turtle-208
+run_uuid: ef95abaa12004729932c381898387dea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745957544414
+status: 3
+tags: []
+user_id: root

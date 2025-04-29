@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/889941049202019539/7712f9077e654cefbf644323440d08a1/artifacts
+deleted_time: 1745956443203
+end_time: 1745956391771
+entry_point_name: ''
+experiment_id: '889941049202019539'
+lifecycle_stage: deleted
+run_id: 7712f9077e654cefbf644323440d08a1
+run_name: chill-mink-866
+run_uuid: 7712f9077e654cefbf644323440d08a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745956391704
+status: 3
+tags: []
+user_id: root

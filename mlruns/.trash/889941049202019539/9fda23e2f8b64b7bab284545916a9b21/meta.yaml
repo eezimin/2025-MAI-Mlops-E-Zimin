@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/889941049202019539/9fda23e2f8b64b7bab284545916a9b21/artifacts
+deleted_time: 1745956443203
+end_time: 1745956117872
+entry_point_name: ''
+experiment_id: '889941049202019539'
+lifecycle_stage: deleted
+run_id: 9fda23e2f8b64b7bab284545916a9b21
+run_name: bittersweet-mouse-17
+run_uuid: 9fda23e2f8b64b7bab284545916a9b21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745956117848
+status: 3
+tags: []
+user_id: root

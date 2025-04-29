@@ -1,0 +1,16 @@
+artifact_uri: file:///app/mlruns/889941049202019539/dc589e4d52df4297a8e0407898418dbb/artifacts
+deleted_time: 1745956443203
+end_time: 1745956370228
+entry_point_name: ''
+experiment_id: '889941049202019539'
+lifecycle_stage: deleted
+run_id: dc589e4d52df4297a8e0407898418dbb
+run_name: welcoming-snail-889
+run_uuid: dc589e4d52df4297a8e0407898418dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745956370205
+status: 3
+tags: []
+user_id: root

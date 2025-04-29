@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/66dd0af8e1514601866f4c1c852fc881/artifacts
+end_time: 1745956993075
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 66dd0af8e1514601866f4c1c852fc881
+run_name: bedecked-auk-56
+run_uuid: 66dd0af8e1514601866f4c1c852fc881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745956992835
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/223d1d7a1b3249d8acc67bcf6d7415ac/artifacts
+end_time: 1745957529478
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 223d1d7a1b3249d8acc67bcf6d7415ac
+run_name: learned-rat-467
+run_uuid: 223d1d7a1b3249d8acc67bcf6d7415ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745957529457
+status: 3
+tags: []
+user_id: root

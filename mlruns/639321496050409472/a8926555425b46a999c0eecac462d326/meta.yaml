@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/a8926555425b46a999c0eecac462d326/artifacts
+end_time: 1745956980329
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: a8926555425b46a999c0eecac462d326
+run_name: shivering-fox-778
+run_uuid: a8926555425b46a999c0eecac462d326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745956980302
+status: 3
+tags: []
+user_id: root

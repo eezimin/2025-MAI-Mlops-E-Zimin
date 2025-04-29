@@ -1,0 +1,7 @@
+artifact_location: file:///app/mlruns/889941049202019539
+creation_time: 1745956117803
+experiment_id: '889941049202019539'
+last_update_time: 1745956443203
+lifecycle_stage: deleted
+name: OCR Service Monitoring test
+tags: {}

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/2093cd73d6b14a2ebe5ad0c07c3114e8/artifacts
+end_time: 1745956999463
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 2093cd73d6b14a2ebe5ad0c07c3114e8
+run_name: charming-shad-485
+run_uuid: 2093cd73d6b14a2ebe5ad0c07c3114e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745956999396
+status: 3
+tags: []
+user_id: root

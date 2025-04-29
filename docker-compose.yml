@@ -1,0 +1,24 @@
+version: '3.9'
+
+services:
+  ocr-service:
+    build:
+      context: .
+    container_name: ocr_service
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+      - ./mlruns:/app/mlruns
+    command: python run.py
+    environment:
+      - MLFLOW_TRACKING_URI=file:/app/mlruns
+
+  mlflow:
+    image: ghcr.io/mlflow/mlflow
+    container_name: mlflow_ui
+    ports:
+      - "5001:5000"
+    volumes:
+      - ./mlruns:/mlflow/mlruns
+    command: mlflow ui --backend-store-uri /mlflow/mlruns --host 0.0.0.0 --port 5000

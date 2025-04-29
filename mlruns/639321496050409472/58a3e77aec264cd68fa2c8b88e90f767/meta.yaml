@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/58a3e77aec264cd68fa2c8b88e90f767/artifacts
+end_time: 1745957807021
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 58a3e77aec264cd68fa2c8b88e90f767
+run_name: clumsy-bird-696
+run_uuid: 58a3e77aec264cd68fa2c8b88e90f767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745957807002
+status: 3
+tags: []
+user_id: root
