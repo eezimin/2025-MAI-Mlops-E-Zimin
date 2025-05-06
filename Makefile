@@ -15,17 +15,25 @@ build:
 	@docker build -t ${IMAGE} . --network=host
 
 dev: build
-@docker run --rm -v $(PWD):/app \
+	@docker run --rm -it \
+		-v $(PWD):/app \
 		-v $(PWD)/mlruns:/app/mlruns \
-		-p 0.0.0.0:8000:8000 \
-		-p 0.0.0.0:8001:8001 \
-		-it ${IMAGE} \
-		adev runserver --livereload --host 0.0.0.0 --port 8000 run.py
+		-p 8000:8000 \
+		-p 8001:8001 \
+		-p 5001:5001 \
+		${IMAGE} \
+		bash -c "mlflow ui --backend-store-uri ./mlruns --host 0.0.0.0 --port 5001 & \
+		         adev runserver --livereload --host 0.0.0.0 --port 8000 run.py"
 
 run: build
 	@docker run --rm -it \
+		-v $(PWD):/app \
 		-v $(PWD)/mlruns:/app/mlruns \
-		-p 0.0.0.0:8000:8000 ${IMAGE}
+		-p 8000:8000 \
+		-p 5001:5001 \
+		${IMAGE} \
+		bash -c "mlflow ui --backend-store-uri ./mlruns --host 0.0.0.0 --port 5001 & \
+		         python run.py"
 
 test: build
 	@echo 'Run tests'

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/653cca22d622452c91f0b4e2c6dcf8de/artifacts
+end_time: 1746552788482
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 653cca22d622452c91f0b4e2c6dcf8de
+run_name: unleashed-shoat-503
+run_uuid: 653cca22d622452c91f0b4e2c6dcf8de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746552788464
+status: 3
+tags: []
+user_id: root

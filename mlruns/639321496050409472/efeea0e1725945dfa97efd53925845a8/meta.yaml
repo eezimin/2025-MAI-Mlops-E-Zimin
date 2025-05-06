@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/efeea0e1725945dfa97efd53925845a8/artifacts
+end_time: 1746553329300
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: efeea0e1725945dfa97efd53925845a8
+run_name: skittish-wren-291
+run_uuid: efeea0e1725945dfa97efd53925845a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746553329159
+status: 3
+tags: []
+user_id: root
