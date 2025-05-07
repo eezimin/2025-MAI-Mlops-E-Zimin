@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/95cdccaa7bdc4857814a084c5b468d5a/artifacts
+end_time: 1746635771577
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 95cdccaa7bdc4857814a084c5b468d5a
+run_name: wistful-crane-470
+run_uuid: 95cdccaa7bdc4857814a084c5b468d5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746635771558
+status: 3
+tags: []
+user_id: root

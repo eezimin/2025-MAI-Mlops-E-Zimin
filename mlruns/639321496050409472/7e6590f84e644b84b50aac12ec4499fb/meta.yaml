@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/7e6590f84e644b84b50aac12ec4499fb/artifacts
+end_time: 1746634527534
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 7e6590f84e644b84b50aac12ec4499fb
+run_name: loud-cod-349
+run_uuid: 7e6590f84e644b84b50aac12ec4499fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746634527460
+status: 3
+tags: []
+user_id: root

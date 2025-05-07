@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/9d8363ce62b048319f7c023abcec4001/artifacts
+end_time: 1746635790009
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 9d8363ce62b048319f7c023abcec4001
+run_name: victorious-goat-431
+run_uuid: 9d8363ce62b048319f7c023abcec4001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746635789968
+status: 3
+tags: []
+user_id: root

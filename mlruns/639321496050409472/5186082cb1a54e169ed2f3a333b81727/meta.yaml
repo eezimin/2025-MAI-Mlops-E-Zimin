@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/5186082cb1a54e169ed2f3a333b81727/artifacts
+end_time: 1746635780476
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 5186082cb1a54e169ed2f3a333b81727
+run_name: adaptable-dog-313
+run_uuid: 5186082cb1a54e169ed2f3a333b81727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746635780025
+status: 3
+tags: []
+user_id: root

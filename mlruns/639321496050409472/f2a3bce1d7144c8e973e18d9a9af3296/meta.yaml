@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/f2a3bce1d7144c8e973e18d9a9af3296/artifacts
+end_time: 1746634570323
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: f2a3bce1d7144c8e973e18d9a9af3296
+run_name: whimsical-squid-662
+run_uuid: f2a3bce1d7144c8e973e18d9a9af3296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746634570194
+status: 3
+tags: []
+user_id: root

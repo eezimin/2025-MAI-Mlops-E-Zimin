@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/013187124ef54333bbc08683df92a406/artifacts
+end_time: 1746634519880
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 013187124ef54333bbc08683df92a406
+run_name: chill-sow-269
+run_uuid: 013187124ef54333bbc08683df92a406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746634235684
+status: 3
+tags: []
+user_id: root

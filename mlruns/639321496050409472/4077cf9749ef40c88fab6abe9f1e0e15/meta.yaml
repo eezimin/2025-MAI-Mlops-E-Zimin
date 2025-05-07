@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/4077cf9749ef40c88fab6abe9f1e0e15/artifacts
+end_time: 1746635769391
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 4077cf9749ef40c88fab6abe9f1e0e15
+run_name: rare-sheep-16
+run_uuid: 4077cf9749ef40c88fab6abe9f1e0e15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746635769293
+status: 3
+tags: []
+user_id: root

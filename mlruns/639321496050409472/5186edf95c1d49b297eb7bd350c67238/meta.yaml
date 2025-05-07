@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/5186edf95c1d49b297eb7bd350c67238/artifacts
+end_time: 1746634713240
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 5186edf95c1d49b297eb7bd350c67238
+run_name: calm-gnat-429
+run_uuid: 5186edf95c1d49b297eb7bd350c67238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746634713203
+status: 3
+tags: []
+user_id: root

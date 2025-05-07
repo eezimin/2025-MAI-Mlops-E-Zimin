@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/639321496050409472/4cc24a28776741728a93b7a1d5bf32c4/artifacts
+end_time: 1746634183630
+entry_point_name: ''
+experiment_id: '639321496050409472'
+lifecycle_stage: active
+run_id: 4cc24a28776741728a93b7a1d5bf32c4
+run_name: likeable-horse-463
+run_uuid: 4cc24a28776741728a93b7a1d5bf32c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746634183561
+status: 3
+tags: []
+user_id: root

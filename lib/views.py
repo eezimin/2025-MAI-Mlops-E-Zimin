@@ -66,13 +66,20 @@ class IndexView(View):
                 mlflow.set_tag("source", "web_form_upload")
                 mlflow.log_param("num_words", len(words))
                 mlflow.log_param("words", ",".join([w["word"] for w in words]))
+                mlflow.log_param("image_size", image.size)
+
                 if words:
                     avg_accuracy = np.mean([w["accuracy"] for w in words])
+                    max_accuracy = max([w["accuracy"] for w in words])
+                    min_accuracy = min([w["accuracy"] for w in words])
+
                     mlflow.log_metric("avg_accuracy", avg_accuracy)
+                    mlflow.log_metric("max_accuracy", max_accuracy)
+                    mlflow.log_metric("min_accuracy", min_accuracy)
 
                 highlighted_image_path = "/tmp/highlighted.png"
                 draw.get_highlighted_image().save(highlighted_image_path)
-                mlflow.log_artifact(highlighted_image_path)    
+                mlflow.log_artifact(highlighted_image_path)   
                         
         except Exception as err:
             # если ошибка, то возникает error

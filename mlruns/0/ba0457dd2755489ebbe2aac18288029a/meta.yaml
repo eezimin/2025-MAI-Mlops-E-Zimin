@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ba0457dd2755489ebbe2aac18288029a/artifacts
+end_time: 1746634135392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba0457dd2755489ebbe2aac18288029a
+run_name: upset-fly-249
+run_uuid: ba0457dd2755489ebbe2aac18288029a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746634135283
+status: 4
+tags: []
+user_id: root
